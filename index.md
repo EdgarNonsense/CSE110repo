@@ -30,7 +30,7 @@ __Top Three Games__
 
 ## Todo List
 - [x] Finish making list
-- [] Enjoy this quarter
-- [] get my team assigned to me
-- [] watch concerts
+- [ ] Enjoy this quarter
+- [ ] get my team assigned to me
+- [ ] watch concerts
 
