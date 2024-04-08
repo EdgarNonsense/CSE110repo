@@ -19,7 +19,7 @@ print("foo);
 ```
 
 * [My Favorite YouTube video is.](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcmljayByb2xs)
-
+* Check out my [About Me](https://github.com/EdgarNonsense/CSE110repo/blob/main/index.md#about-me)
 * You should check out [my README file](CSE110repo/README.md)
 
 
